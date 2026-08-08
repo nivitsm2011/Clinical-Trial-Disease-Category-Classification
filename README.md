@@ -137,23 +137,3 @@ The challenge is to preprocess and transform the clinical trial text data into a
 
 ---
 
-## 📖 References
-- Project Orientation Sessions (English & Tamil)  
-- Streamlit Documentation & Recordings  
-- GitHub Usage Guidelines  
-- Capstone Explanation Guidelines  
-- Project Excellence Series: Guided Learning & Problem Solving [Python & SQL]  
-
----
-
-## 📸 Screenshots (Optional)
-Add screenshots of your Streamlit dashboard here:
-- Disease Prediction Tab  
-- Cluster Exploration Tab  
-- Recommendations Tab  
-
----
-
-👉 This format is **GitHub‑friendly**: clear headings, bullet points, and optional screenshots.  
-
-Would you like me to also create a **short “Quick Start” section** (with installation and run instructions like `pip install -r requirements.txt` and `streamlit run app.py`) so others can easily reproduce your project?
